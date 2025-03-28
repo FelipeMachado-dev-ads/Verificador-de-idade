@@ -41,25 +41,6 @@ O projeto é composto pelos seguintes arquivos:
 
 Este projeto não possui dependências externas.
 
-## Estrutura de Diretórios
-
-verificador-idade/
-├── index.html
-├── src/
-│   ├── style.css
-│   ├── main.js
-│   └── img/
-│       ├── bebemenino.png
-│       ├── bebemenina.png
-│       ├── homemjovem.png
-│       ├── mulherjovem.png
-│       ├── homem.png
-│       ├── mulher.png
-│       ├── senhor.png
-│       └── senhora.png
-└── README.md
-
-
 ## Autor
 
 -   Felipe.Dev
